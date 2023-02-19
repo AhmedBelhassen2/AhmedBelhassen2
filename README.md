@@ -1,4 +1,4 @@
-# :wave: Hello, folks!  
+# :wave: Hello, folks! ;)  
     
 ## :question: Who am I?
 
