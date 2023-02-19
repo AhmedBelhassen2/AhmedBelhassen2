@@ -48,12 +48,10 @@ I am Ahmed Belhassen and I'm web developer, with knowledge and experience, worki
 
 <p align="center">
 <a href="https://twitter.com/ahmed belhassen" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/ alt="twitter:diahan-hudgson"></a>
 <a href="https://www.linkedin.com/in/diahan-hudgson/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/ alt="linkedin:diahan-hudgson"></a>
     <img src="https://img.icons8.com/bubbles/100/000000/web.png"/ alt="website:diahan-hudgson"></a>
-        <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/ alt="twitter:diahan-hudgson"></a>
-
+    
 </p>
 
 ***
