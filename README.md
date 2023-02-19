@@ -13,9 +13,9 @@ I am Ahmed Belhassen and I'm web developer, with knowledge and experience, worki
 ## :chart_with_upwards_trend:  GitHub Stats
 
 <br>
-<a align="center">
+<p align="center">
     <img src="ahmed.jpg">
-</a>
+</p>
 
 <h1 align="center">Hi, I'm AHMED BELHASSEN </h1>
 <h3 font-size="20" align="center">A passionate web devollper and a student in Holberton School from Tunisia.</h3>
