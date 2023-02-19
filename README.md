@@ -25,7 +25,7 @@ I am Ahmed Belhassen and I'm web developer, with knowledge and experience, worki
 ## :newspaper: Blog Posts
 - 🤝 I’m looking for help with **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available [@ahmed77-jpg](github.com/ahmed77-jpg)
+- 👨‍💻 All of my projects are available [@AhmedBelhassen2](https://github.com/AhmedBelhassen2)
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 ***
